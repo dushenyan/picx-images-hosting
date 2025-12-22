@@ -1,0 +1,25 @@
+Antigravity.app
+Apifox.app
+Appium Inspector.app
+ClashX Pro.app
+CleanMyMac X.app
+CodeBuddy CN.app
+DingTalk.app
+EasyConnect.app
+GitHub Desktop.app
+Google Chrome.app
+Microsoft Edge.app
+PlayCover.app
+Safari.app
+Snipaste.app
+Typora.app
+Utilities
+Visual Studio Code.app
+WeChat.app
+wechatwebdevtools.app
+wpsoffice.app
+Xcode.app
+哔哩哔哩.app
+腾讯元宝.app
+微信读书.app
+语雀.app
